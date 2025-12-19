@@ -3,6 +3,7 @@ This dataset contains raw images of pears for research and machine learning purp
 
 ## Directory Structure
 pear-fruit-dataset/
+├─ images/ # all pear fruit images (download via link)
 ├─ LICENSE # CC BY 4.0 license
 └─ README.md
 
@@ -22,4 +23,4 @@ Extraction code: 7fh5
 
 ## Citation
 If you use this dataset in your research, please cite it as:  
-Zhenchao Wu and Xingchen Qiao. Pear Fruit Dataset. 2025. GitHub repository: [https://github.com/Possibility007/pear-fruit-dataset](https://github.com/Possibility007/Pear-Dataset)
+Zhenchao Wu and Xingchen Qiao. Pear Fruit Dataset. 2025. GitHub repository: https://github.com/Possibility007/Pear-Dataset
