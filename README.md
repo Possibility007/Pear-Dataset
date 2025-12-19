@@ -14,3 +14,7 @@ pear-fruit-dataset/
 ## License
 This dataset is licensed under [CC BY 4.0](LICENSE).  
 You are free to use, share, and adapt it as long as you give appropriate credit.
+## Citation
+If you use this dataset in your research, please cite it as:
+Zhenchao Wu and Xingchen Qiao. Pear Fruit Dataset. 2025. GitHub repository: https://github.com/yourusername/pear-fruit-dataset
+
