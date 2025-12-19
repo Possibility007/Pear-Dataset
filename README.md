@@ -3,7 +3,7 @@ This dataset contains raw images of pears for research and machine learning purp
 
 ## Directory Structure
 pear-fruit-dataset/
-├─ images/ # all pear fruit images (download via link)
+├─ images/ # all pear images (download via link)
 ├─ LICENSE # CC BY 4.0 license
 └─ README.md
 
