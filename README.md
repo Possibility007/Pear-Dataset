@@ -3,13 +3,13 @@ This dataset contains raw images of pears for research and machine learning purp
 
 ## Directory Structure
 pear-fruit-dataset/
-├─ images/ # all pear images (download via link)
+
 ├─ LICENSE # CC BY 4.0 license
 └─ README.md
 
 ## Total Images
 - JPG: 810
-- HEIC: 655
+
 
 ## License
 This dataset is licensed under CC BY 4.0.  
