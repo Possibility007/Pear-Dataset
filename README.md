@@ -2,7 +2,7 @@
 This dataset contains raw images of pears for research and machine learning purposes. No annotations are included.
 
 ## Directory Structure
-pear-fruit-dataset/
+pear-dataset/
 
 ├─ LICENSE # CC BY 4.0 license
 └─ README.md
@@ -16,7 +16,7 @@ This dataset is licensed under CC BY 4.0.
 You are free to use, share, and adapt it as long as you give appropriate credit.
 
 ## Download
-The full dataset (~5 GB) can be downloaded from Baidu Cloud:  
+The full dataset (~3.5 GB) can be downloaded from Baidu Cloud:  
 [Download link](https://pan.baidu.com/s/1BdKFqmcW8kGyoOr8ff8qsQ)  
 Extraction code: 7fh5
 
